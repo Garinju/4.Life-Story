@@ -1,2 +1,2 @@
 # Life-Story
-Proyek Udemy untuk mempelajari git version control
+[Udemy Course Project]Proyek Udemy untuk mempelajari git version control
